@@ -50,11 +50,11 @@
 
                     <div class="form-group row">
                         <label for="question">Question</label>
-                        <input type="text" class="form-control" id="question" placeholder="Here will the question be!" readonly>
+                        <input type="text" class="form-control" id="question" placeholder="Lektion auswählen!" readonly>
                     </div>
                     <div class="form-group row">
                         <label for="answer">Answer</label>
-                        <input type="text" class="form-control" id="answer" placeholder="Your answer please!" autocomplete="off" spellcheck="off">
+                        <input type="text" class="form-control" id="answer" placeholder="Deine Antwort hier!" autocomplete="off" spellcheck="off">
                     </div>
                     <div class="form-group row">
                         <button id="checkanswer" type="submit" class="btn btn-primary">Check</button>
@@ -64,6 +64,10 @@
                 </form>
 
 
+            </div>
+            <div id="container" style="width:100%; height:50px; border:1px solid black;">
+                <div id="progress-bar" style="width:0%;/*change this width */background-color:green; height:48px;">
+                </div>
             </div>
 
         </div>

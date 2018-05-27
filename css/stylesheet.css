@@ -42,11 +42,21 @@ footer {
     }
 }
 
-#flashcard {
+#flashcard{
     width: 100%;
     max-width: 500px;
     margin: auto;
 
+}
+
+#container{
+    width: 100%;
+    max-width: 525px;
+    margin: auto;
+}
+
+#progress-bar{
+    width: 0%;
 }
 
 #flashcard p {
