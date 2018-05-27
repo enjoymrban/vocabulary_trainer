@@ -1,9 +1,89 @@
+/*var lesson10 = {
+    "acceleration"    "Beschleunigung"
+    "analysis"	"Analyse"
+        "beam"	"Strahl"
+    "coil"	"Spule"
+        "damper"	"Dämpfer"
+    "displacement	Verschiebung
+        "flaw	Fehler
+    "flux	Fluss
+        "graph	Graph
+    "magnitude	Größe
+    objective    Zielsetzung
+    pedestrian    Fußgänger
+    radiation    Strahlung
+    setup    Konfiguration
+    simulation    Simulation
+    strain    Belastung
+    transducer    Wandler
+    anchor rod    Ankerstange
+    coil winding    Spulenwicklung
+    eddy durrent testing    Eddy-Durrent - Testing
+    kinetic energy    kinetische Energie
+    magnetic particle testing    Magnetpulverprüfung
+    push-over test    Push - Over - Test
+    radiographic testing    Röntgenprüfung
+    shake table    Schütteltisch
+    shock absorber    Stoßdämpfer
+    test probe    Prüfspitze
+    ultrasonic testing    Ultraschalluntersuchung
+    destructive    destruktiv
+    excessive    übermäßig
+    experimental    Experimental-
+        ferromagnetic    ferromagnetisch
+    linear    linear
+    load - bearing    Belastbarkeit
+    long - running    lang andauernd
+    long-term    langfristig
+    massive    massiv
+    mid - rise    mittelhoch
+    non - destructive    nicht zerstörend
+    optical    optisch
+    radiographic    radiographisch
+    seismic    seismisch
+    significant    von Bedeutung
+    steel - reinforced    stahlverstärkt
+    apart    ein Teil
+    incrementally    inkrementell
+    instinctively    instinktiv
+    sideways    seitwärts
+    assume    annehmen
+    cushion    Kissen
+    deduce    ableiten
+    disipate    zerstreuen
+    embed    einbetten
+    exceed    überschreiten
+    fabricate    fabrizieren
+    induce    induzieren
+    magnetise    magnetisieren
+    penetrate    durchdringen
+    plant    Pflanze
+    reinforce    verstärken
+
+}*/
+
 var lesson11 = {
     "assertiveness": "Durchsetzungsvermögen",
     "backup (verb)": "sichern",
     "backup (noun)": "Verstärkung",
     "break-up": "aufbrechen",
-    "chamber": "Kammer"
+    "chamber": "Kammer",
+    "ross-section": "Kreuzung",
+    "dam": "Damm",
+    "debris": "Trümmer",
+    "filtration": "Filtration",
+    "fuselange": "Füssling",
+    "penstock": "Druckrohrleitung",
+    "airspeed indicator": "Fluggeschwindigkeitsanzeige",
+    "metal fatigue": "Metallermüdung",
+    "pitot tube": "Staurohr",
+    "preliminary": "vorläufig",
+    "assertively": "selbstbewusst",
+    "excessively": "übermäßig",
+    "buckle": "Schnalle",
+    "rule out": "ausschließen"
+
+
 };
 
 var lesson12 = {
